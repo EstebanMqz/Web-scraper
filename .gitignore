@@ -1,0 +1,8 @@
+# .gitgnore:  Most DevTools Event-Listeners.js for Web Development Debugging & Analytics purposes (provided users consent).
+Event-Listeners.js
+
+
+# //References:
+# //Event Listeners: https://developer.mozilla.org/en-US/docs/Web/Events
+# //Chromium DevTools: https://developer.chrome.com/docs/devtools/?utm_source=devtools 
+# //Chromium Protocol: https://chromedevtools.github.io/devtools-protocol/ 
